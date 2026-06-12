@@ -14,7 +14,7 @@ export default Navbar
 const Logo=()=>{
     return(<>
     <div className="w-20 h-20 py-5">
-        <img src="../../public/SLALogo.webp"/>
+        <img src="./SLALogo.webp"/>
     </div>
     </>)
 }
