@@ -4,6 +4,7 @@ import EmployeeCard from "./components/EmployeeCard";
 import ProductCard from "./components/ProductCard.";
 import MovieDetails from "./components/MovieDetails";
 import CompanyInfo from "./components/CompanyInfo";
+import Footer from "./components/footer";
 
 const App=()=>{
   return(<>
@@ -14,6 +15,7 @@ const App=()=>{
     <ProductCard/>
     <MovieDetails/>
     <CompanyInfo/>
+    <footer/>
     </div>
     </>)
 }
